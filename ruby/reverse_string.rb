@@ -32,9 +32,9 @@ end
 
 # Please add your pseudocode to this file
 # And a written explanation of your solution
-1. First, turn the str into an array, so that we can iterate over it.
-2. Make an empty array to hold the final versed string array.
-3. Find the length of the string.
-4. Make a counter that is 1 less than the length of the string, for the indexing.
-5. Iterate over the str array, and putting the first one to the last, as going forward as the counter counts from the last index to 0 (first one).
-6. Join the array back to a string.
+# 1. First, turn the str into an array, so that we can iterate over it.
+# 2. Make an empty array to hold the final versed string array.
+# 3. Find the length of the string.
+# 4. Make a counter that is 1 less than the length of the string, for the indexing.
+# 5. Iterate over the str array, and putting the first one to the last, as going forward as the counter counts from the last index to 0 (first one).
+# 6. Join the array back to a string.
